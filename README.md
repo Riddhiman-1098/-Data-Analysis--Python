@@ -36,5 +36,5 @@ Usage
 Clone the repository or download the WeatherJena.csv file.
 Install the required dependencies using pip install -r requirements.txt.
 Run the provided Python script to perform data analysis and modeling.
-Contributors
-[Your Name]
+Contributor
+Riddhiman Mukhopadhyay
