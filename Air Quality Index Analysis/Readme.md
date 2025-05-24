@@ -109,15 +109,15 @@ The script performs several key tasks:
 
 ### AQI Distribution
 
-![AQI Distribution Example](images/aqi_distribution_example.png)
+![AQI Distribution Example]((https://github.com/Riddhiman-1098/-Data-Analysis--Python/blob/d31d73a11539be60088400783910da2e932238dc/Air%20Quality%20Index%20Analysis/Images/AQI%20Category%20Distribution%20Over%20Time.png))
 
 ### Pollutant Correlation Heatmap
 
-![Pollutant Correlation](images/pollutant_correlation_heatmap.png)
+![Pollutant Correlation]([images/pollutant_correlation_heatmap.png](https://github.com/Riddhiman-1098/-Data-Analysis--Python/blob/d31d73a11539be60088400783910da2e932238dc/Air%20Quality%20Index%20Analysis/Images/Correlation%20Between%20Pollutants.png))
 
 ### Hourly AQI Trends
 
-![Hourly Trends](images/hourly_trends.png)
+![Hourly Trends]([images/hourly_trends.png](https://github.com/Riddhiman-1098/-Data-Analysis--Python/blob/d31d73a11539be60088400783910da2e932238dc/Air%20Quality%20Index%20Analysis/Images/Hourly%20Average%20AQI%20Trends%20in%20Delhi%20(Jan%202023).png))
 
 ---
 
