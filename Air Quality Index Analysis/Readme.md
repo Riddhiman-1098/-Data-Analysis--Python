@@ -1,5 +1,3 @@
-Here is a professional, well-structured, and visually enhanced `README.md` for your **Air Quality Analysis** project, based on the content you provided:
-
 ---
 
 # 🌫️ Air Quality Analysis – Delhi
