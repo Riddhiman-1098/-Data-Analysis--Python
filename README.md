@@ -135,6 +135,12 @@ This project offers comprehensive insights into Delhi’s air pollution landscap
 
 ---
 
+📄 License
+
+MIT License
+
+---
+
 ## 🙋‍♂️ Want to Contribute?
 
 Feel free to fork this repository and submit pull requests with improvements, new visualizations, or updated datasets!
